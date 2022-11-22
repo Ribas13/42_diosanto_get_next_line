@@ -6,11 +6,11 @@
 /*   By: diosanto <diosanto@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/22 15:25:32 by diosanto          #+#    #+#             */
-/*   Updated: 2022/11/22 15:26:56 by diosanto         ###   ########.fr       */
+/*   Updated: 2022/11/22 15:28:19 by diosanto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 char	*get_next_line(int fd)
 {
-
+asd
 }
